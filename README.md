@@ -18,3 +18,6 @@ Atualmente estou aprofundando meus conhecimentos em React.js e Next.js, com uma 
 
 Gosto de resolver problemas com código limpo e soluções criativas — sempre buscando entregar valor real para usuários e negócios. 🚀
 
+
+###  [Veja como ficou](https://wesleybsilva1.github.io/QR-code/)
+
